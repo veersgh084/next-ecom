@@ -4,7 +4,7 @@ export const Header = () => {
   return (
     <div className="">
         <ul>
-            <li>Home</li>
+            <li>Home1</li>
             <li>About</li>
             <li>Team</li>
             <li>Contact</li>
